@@ -37,6 +37,20 @@
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
 
+<h2>⚙️ GitHub Stats</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api?username=tobiasfremming&show_icons=true&border_color=414868&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api?username=tobiasfremming&show_icons=true"/>
+    <img height="190em">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact">
+    <img height="190em">
+  </picture>
+</div>
+
 
   
 
