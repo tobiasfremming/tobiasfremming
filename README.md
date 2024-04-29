@@ -25,7 +25,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"    width="55" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt = "C" width="65" height="65"/>
-      <img src = "https://user-images.gith…e9-8318-e20a1aaa913a.png" alt="assembly" width="65" height="65"/>
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="assembly" width="65" height="65"/>
 </div>
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
