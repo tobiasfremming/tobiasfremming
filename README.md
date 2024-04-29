@@ -1,7 +1,8 @@
-<h1> Hello There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1> 
-<div align="center">
-<img src="programmerProggingDarkMode.gif">
-</div>
+<h1> Hello There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1>
+
+
+
+
 
 ## About Me:
 
