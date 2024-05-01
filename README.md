@@ -34,6 +34,7 @@
 - [Sverre Nystad](https://github.com/SverreNystad) on [TutorAI](https://github.com/SverreNystad/TutorAI) and more.
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on  [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI).
+- [Skage Klingstedt Reistad](https://github.com/lockedintheskage) on [TutorAI](https://github.com/SverreNystad/TutorAI) and Tango Scraper (reposityory pending)
 - And many more!
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
