@@ -52,6 +52,8 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <img height="190em">
       
   </picture>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias.fremming&hide=Jupyter+Notebook&theme=tokyonight)
 </div>
 
 
