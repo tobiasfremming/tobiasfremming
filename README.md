@@ -53,7 +53,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
       
   </picture>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias.fremming&hide=Jupyter+Notebook&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobiasfremming&hide=Jupyter+Notebook&theme=tokyonight)
 </div>
 
 
