@@ -27,6 +27,9 @@
       <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"    width="55" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt = "C" width="65" height="65"/>
       <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="assembly" width="65" height="65"/>
+      <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="assembly" width="65" height="65"/>
+
+    
 </div>
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
