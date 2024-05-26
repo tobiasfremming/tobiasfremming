@@ -6,9 +6,9 @@
 
 ## About Me:
 
-- **🚀 Positions:**
-    - I currently serve as member at **Cogito NTNU**.
-    - Member of a team at Cogito, where we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
+- **🚀 Positions:**  
+    - Member of a team at **Cogito NTNU**, where we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
+    - I currently serve as member at **Hackerspace NTNU** as a part of the game development team.
 - **🏦 Education:**
     - I'm a informatics student at **NTNU Trondheim** .
 - **📖 Currently Reading:** *Design Patterns: Elements of Reusable Object-Oriented Software* by gang of four.
