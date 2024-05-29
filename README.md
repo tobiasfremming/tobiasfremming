@@ -8,7 +8,7 @@
 
 - **🚀 Positions:**  
     - Member of a team at **Cogito NTNU**, where we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
-    - I currently serve as member at **Hackerspace NTNU** as a part of the game development team.
+    - I currently serve as member at **Hackerspace NTNU** as a part of the game development team. 
 - **🏦 Education:**
     - I'm a informatics student at **NTNU Trondheim** .
 - **📖 Currently Reading:** *Design Patterns: Elements of Reusable Object-Oriented Software* by gang of four.
@@ -50,8 +50,8 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <img height="190em">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&theme=tokyonight&layout=compact&border_color=414868"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&theme=tokyonight&layout=compact&hide=Jupyter+Notebook">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=Jupyter+Notebook">
     <img height="190em">
       
   </picture>
