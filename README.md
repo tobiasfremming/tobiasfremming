@@ -12,7 +12,8 @@
 - **🏦 Education:**
     - I'm a informatics student at **NTNU Trondheim** .
 - **📖 Currently Reading:** *Design Patterns: Elements of Reusable Object-Oriented Software* by gang of four.
-- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns. Let's exchange insights!
+- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns and AI. Let's exchange insights!
+  
 
 <h2> 🧑‍💻 Tech I work on: </h2>
 
