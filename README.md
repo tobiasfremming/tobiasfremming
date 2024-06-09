@@ -1,6 +1,8 @@
 <h1> Hello There!  </h1>
+<div align="center">
+  <img src="assets\tim_image.jpg"  align="center"/>
+</div>
 
-<img src="assets\tim_image.jpg"  align="center"/>
 
 ## About Me:
 
