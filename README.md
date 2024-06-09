@@ -1,19 +1,16 @@
-<h1> Hello There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45" align="center"/> </h1>
+<h1> Hello There!  </h1>
 
-
-
-
+<img src="assets\tim_image.jpg"  align="center"/>
 
 ## About Me:
 
-- **🚀 Positions:**  
-    - Member of a team at **Cogito NTNU**, where we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
-    - I currently serve as member at **Hackerspace NTNU** as a part of the game development team. 
+- **🚀 Positions:**
+  - Member of a team at **Cogito NTNU**, where we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
+  - I currently serve as member at **Hackerspace NTNU** as a part of the game development team.
 - **🏦 Education:**
-    - I'm a informatics student at **NTNU Trondheim** .
-- **📖 Currently Reading:** *Design Patterns: Elements of Reusable Object-Oriented Software* by gang of four.
+  - I'm a informatics student at **NTNU Trondheim** .
+- **📖 Currently Reading:** _Design Patterns: Elements of Reusable Object-Oriented Software_ by gang of four.
 - **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, design patterns and AI. Let's exchange insights!
-  
 
 <h2> 🧑‍💻 Tech I work on: </h2>
 
@@ -30,13 +27,12 @@
       <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="assembly" width="65" height="65"/>
       <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="assembly" width="65" height="65"/>
 
-    
 </div>
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
 
 - [Sverre Nystad](https://github.com/SverreNystad) on [TutorAI](https://github.com/SverreNystad/TutorAI) and more.
-- [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on  [TutorAI](https://github.com/SverreNystad/TutorAI).
+- [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Skage Klingstedt Reistad](https://github.com/lockedintheskage) on [TutorAI](https://github.com/SverreNystad/TutorAI) and Tango Scraper (reposityory pending)
 - And many more!
@@ -58,16 +54,6 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   </picture>
 
 </div>
-
-
-  
-
-
- 
- 
-
-
-
 
 </div>
 </details>
