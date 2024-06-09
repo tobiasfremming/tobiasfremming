@@ -1,6 +1,6 @@
 <h1> Hello There!  </h1>
-<div >
-  <img src="assets\tim_image.jpg"   align="center"/>
+<div pading-left: 40>
+  <img src="assets\tim_image.jpg" pading-left: 40  align="center"/>
 </div>
 
 
