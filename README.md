@@ -7,7 +7,8 @@
 ## About Me:
 
 - **🚀 Positions:**
-  - Member of a team at **Cogito NTNU**, where we are developing a Retrieval-Augmented Generation system designed to enhance student learning experiences.
+  - Member of a team at **Cogito NTNU**, where we are developing a stystem to teach agents to walk using the genetic algorythm NEAT.
+  - Team lead at **CrawlAI**, in **Cogito NTNU**
   - I currently serve as member at **Hackerspace NTNU** as a part of the game development team.
 - **🏦 Education:**
   - I'm a informatics student at **NTNU Trondheim** .
