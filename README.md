@@ -44,7 +44,12 @@
 - [Sverre Nystad](https://github.com/SverreNystad) on [TutorAI](https://github.com/SverreNystad/TutorAI) and more.
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI).
-- [Skage Klingstedt Reistad](https://github.com/lockedintheskage) on [TutorAI](https://github.com/SverreNystad/TutorAI) and Tango Scraper (reposityory pending)
+- [Skage Klingstedt Reistad](https://github.com/lockedintheskage) on [TutorAI](https://github.com/SverreNystad/TutorAI) and [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
+- [Nathania Vijayanti Muliawan](https://github.com/Nathaniavm) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
+- [Parleen Brar](https://github.com/Parleenb) on [TutorAI](https://github.com/SverreNystad/TutorAI) and [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
+- [Jonas Korkosh](https://github.com/jonkor29) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
+- [Mina Aldolaimi](https://github.com/AlMinaDO) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
+
 - And many more!
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
