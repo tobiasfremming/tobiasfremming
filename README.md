@@ -7,7 +7,7 @@
 ## About Me:
 
 - **🚀 Positions:**
-  - Member of a team at **Cogito NTNU**, where i have work on TutorAI, and i scurrently working on CrawlAI.
+  - Member of **Cogito NTNU**, where i have work on TutorAI, and i scurrently working on CrawlAI.
   - Team lead at **CrawlAI**, in **Cogito NTNU**, where we are developing a stystem to teach agents to walk using the genetic algorythm NEAT.
   - I currently serve as member at **Hackerspace NTNU** as a part of the game development team.
 - **🏦 Education:**
@@ -29,6 +29,13 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt = "C" width="65" height="65"/>
       <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="assembly" width="65" height="65"/>
       <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="assembly" width="65" height="65"/>
+      <img src = "https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="65" height="65"/>
+      <img src = "https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="65" height="65"/>
+      <img src = "https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="65"/>
+
+
+
+      
 
 </div>
 
