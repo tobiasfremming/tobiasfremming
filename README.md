@@ -54,21 +54,39 @@
 
 Whether you're a seasoned developer, a student, or someone just starting out in tech, I'm open to collaborating and learning together. Let us code a better future together :)
 
+
+
+
+
+
 <h2>⚙️ GitHub Stats</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api?username=tobiasfremming&show_icons=true&border_color=414868"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api?username=tobiasfremming&show_icons=true&border_color=414868"/>
-    <img height="190em">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true&border_color=414868&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-bay-97.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=Jupyter+Notebook&border_color=414868">
-    <img height="190em">
-      
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868&theme=tokyonight&hide=html%2Cjupyter%20notebook"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=html%2Cjupyter%20notebook">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=html%2Cjupyter%20notebook"/>
   </picture>
-
 </div>
 
-</div>
+
+
+
+
+  <summary><strong>🚀 Cool Projects I've Worked On</strong></summary>
+  <br>
+  
+  <div align="center">
+    <h3><a href="https://github.com/CogitoNTNU/TutorAI">TutorAI</a></h3>
+    <p>
+        TutorAI is a RAG system capable of assisting with learning academic subjects and using the curriculum and citing it. The project revolves around building an application that ingests a textbook in most formats and facilitates efficient learning of the course material.
+    </p>
+    <br><img src="https://github.com/CogitoNTNU/TutorAI/blob/main/docs/images/TutorAI.png" width="200">
+  </div>
+    
 </details>
+<details>
