@@ -76,7 +76,9 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
 
 
 
-
+    
+</details>
+<details>
   <summary><strong>🚀 Cool Projects I've Worked On</strong></summary>
   <br>
   
@@ -87,6 +89,4 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     </p>
     <br><img src="https://github.com/CogitoNTNU/TutorAI/blob/main/docs/images/TutorAI.png" width="200">
   </div>
-    
-</details>
-<details>
+
