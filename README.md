@@ -18,25 +18,20 @@
 <h2> 🧑‍💻 Tech I work on: </h2>
 
 <div align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
-      <img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="75" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"  width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs"     width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"    width="55" height="65"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt = "C" width="65" height="65"/>
-      <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="assembly" width="65" height="65"/>
-      <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="assembly" width="65" height="65"/>
-      <img src = "https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="65" height="65"/>
-      <img src = "https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="65" height="65"/>
-      <img src = "https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="65"/>
-
-
-
-      
-
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
+    <img src="https://github.com/SverreNystad/SverreNystad/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="assembly" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="50" height="50"/>
 </div>
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
