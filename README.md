@@ -84,4 +84,20 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     </p>
     <br><img src="https://github.com/CogitoNTNU/TutorAI/blob/main/docs/images/TutorAI.png" width="200">
   </div>
+  <div align="center">
+    <h3><a href="https://github.com/SverreNystad/besieged">Besieged</a></h3>
+    <p>
+      Besieged! is a cooperative, real-time multiplayer tower defense game inspired by Viking and Norse mythology, supporting both singleplayer and multiplayer. Players collaborate to defend their village against waves of mythological creatures. Gameplay involves purchasing and strategically placing combination of "tower-cards" on the map to build unique towers that attack invading enemies. Each kill grants players money to acquire more cards. Enemies spawn in waves and follow a set path toward your village; if they succeed in destroying it, the game ends. Besieged! innovates on traditional tower defense mechanics, such as those in Bloons Tower Defense 4, by enabling dynamic tower creation through card combinations.
+    </p>
+    <img src="https://github.com/SverreNystad/besieged/blob/main/docs/images/besieged.png" alt="logo"           width="200" height="200" />
+    
+  </div>
 
+  <div align="center">
+    <h3><a href="https://github.com/tobiasfremming/CvslCompiler">CvslCompiler</a></h3>
+    <p>
+        I wrote my own compiler that compiles very simple language, hence Cvsl: very simple language compiled in C. It interprets the syntax and generates runnable x86 assembly. Pretty awesome.
+    </p>
+    <br><img src="https://github.com/tobiasfremming/CvslCompiler/blob/main/cvlsCompiler.png" width="200">
+  </div>
+ 
