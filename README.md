@@ -74,7 +74,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     
 </details>
 <details>
-  <summary><strong>🚀 Cool Projects I've Worked On</strong></summary>
+  <summary><h3>🚀 Cool Projects I've Worked On</h3></summary>
   <br>
   
   <div align="center">
