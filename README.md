@@ -44,6 +44,10 @@
 - [Parleen Brar](https://github.com/Parleenb) on [TutorAI](https://github.com/SverreNystad/TutorAI) and [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
 - [Jonas Korkosh](https://github.com/jonkor29) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
 - [Mina Aldolaimi](https://github.com/AlMinaDO) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
+- [Edvard Emmanuel Klavenes](https://github.com/snoobers) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
+- [Christopher Braaten](https://github.com/CraZyB1336) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
+- [Christer Justad Krane](https://github.com/ChrisKrane) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
+- [Peter Vatnøy](https://github.com/petvat) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
 
 - And many more!
 
