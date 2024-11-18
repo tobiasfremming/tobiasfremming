@@ -10,7 +10,7 @@
   - Member of **Cogito NTNU**, where I have contributed to **TutorAI**, and currently work on **CrawlAI**.
   - I currently serve as project leader at **CrawlAI**, in **Cogito NTNU**, where we are developing a stystem to teach agents to walk using the genetic algorythm NEAT.
   - I am a member at **Hackerspace NTNU** as a part of the **game development** team.
-  - Software developer at TutorAI startup project.
+  - Software developer at **TutorAI** startup project.
 - **🏦 Education:**
   - I'm a 3rd year informatics student at **NTNU Trondheim**.
 - **📖 Currently Reading:** _Design Patterns: Elements of Reusable Object-Oriented Software_ by gang of four.
