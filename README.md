@@ -104,4 +104,13 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     </p>
     <br><img src="https://github.com/tobiasfremming/CvslCompiler/blob/main/cvlsCompiler.png" width="200">
   </div>
+
+  <div align="center">
+    <h3><a href="https://github.com/CogitoNTNU/CrawlAI">Crawl AI</a></h3>
+    <p>
+        Crawl AI is the first project I've been the team leador on in Cogito NTNU. This is the first phase on an ongoing project on neuroevolution and bio-inspired artificial intelligence. We were 8 people on this project, and had a lot of fun implementing the NEAT algorithm (neuroevolution on augmenting topologies)
+      The objective of this project is using a genetic algorithm to train agents to move forward in a 2d environment, using the traveled lenght in the fitness function. 
+    </p>
+    <br><img src="https://github.com/CogitoNTNU/CrawlAI/raw/main/docs/images/crawlai.webp" width="200">
+  </div>
  
