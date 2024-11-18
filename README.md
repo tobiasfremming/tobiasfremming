@@ -105,6 +105,15 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
     <br><img src="https://github.com/tobiasfremming/CvslCompiler/blob/main/cvlsCompiler.png" width="200">
   </div>
 
+  
+  <div align="center">
+    <h3><a href="https://github.com/iverri/ML-Group-Project">AIS system</a></h3>
+    <p>
+        AIS system is a project in modern machine learning in practice, where we were supposed to make an ML model that predicts the positions on ships five days into the future. The predictions were entered in a caggle competition. The best model we made was with XGBoost, using the h2o framework. We worked on a large dataset, but our transformer model was too data hungry to accomplish any significant score. 
+    </p>
+    <br><img src="https://github.com/iverri/ML-Group-Project/blob/main/Deliverables/Images/predictions_transformer.png?raw=true" width="200">
+  </div>
+
   <div align="center">
     <h3><a href="https://github.com/CogitoNTNU/CrawlAI">Crawl AI</a></h3>
     <p>
