@@ -42,9 +42,9 @@
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Skage Klingstedt Reistad](https://github.com/lockedintheskage) on [TutorAI](https://github.com/SverreNystad/TutorAI) and [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
-- [Nathania Vijayanti Muliawan](https://github.com/Nathaniavm) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
-- [Parleen Brar](https://github.com/Parleenb) on [TutorAI](https://github.com/SverreNystad/TutorAI) and [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
-- [Edvard Emmanuel Klavenes](https:edvard-ek//github.com/snoobers) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
+- [Nathania Vijayanti Muliawan](https://github.com/Nathaniavm) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git) and [Motion](https://github.com/CogitoNTNU/Motion)
+- [Parleen Brar](https://github.com/Parleenb) on [TutorAI](https://github.com/SverreNystad/TutorAI), [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git) and [Motion](https://github.com/CogitoNTNU/Motion)
+- [Edvard Emmanuel Klavenes](https://github.com/edvard-ek) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill) and [Motion](https://github.com/CogitoNTNU/Motion)
 - [Christopher Braaten](https://github.com/CraZyB1336) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
 - [Christer Justad Krane](https://github.com/ChrisKrane) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
 
