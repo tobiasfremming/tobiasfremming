@@ -64,7 +64,7 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868&theme=tokyonight&hide=html%2Cjupyter%20notebook"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=html%2Cjupyter%20notebook">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=[html%2Cjupyter%20notebook, html%makeFile]">
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=html%2Cjupyter%20notebook"/>
   </picture>
 </div>
