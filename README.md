@@ -17,7 +17,7 @@
 - **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, Computer Graphics, and AI, especially bio-inpired AI. Let's exchange insights!
 - **Shader art:** I recently got into computer graphics and shader art. Check out my shadertoy account [tobiasfremming](https://www.shadertoy.com/results?query=tobiasfremming)
 <div style=" text-align: center;">
-  <img src="assets/dolphin" alt="My Animation" style="padding-left: 40px;"/>
+  <img src="assets/dolphin.gif" alt="My Animation" style="padding-left: 40px;"/>
 </div>
 
 <h2> 🧑‍💻 Tech I work on: </h2>
