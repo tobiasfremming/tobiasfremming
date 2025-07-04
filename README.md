@@ -7,15 +7,15 @@
 ## About Me:
 
 - **🚀 Positions:**
-  - Member of **Cogito NTNU**, where I have contributed to **TutorAI**, been project leader at **CrawlAI** and currently work on **Motion**.
-  - I currently serve as project leader at **Motion**, and board member at **Cogito NTNU**.
+  - Software developer at **Aksio** startup project.
+  - Member of **Cogito NTNU**, where I have contributed to **TutorAI**, and been project leader at **CrawlAI** and **Motion**.
+  - I currently serve as board member at **Cogito NTNU**.
   - I am a member at **Hackerspace NTNU** as project leader of the **Shader art project** .
-  - Software developer at **TutorAI** startup project.
 - **🏦 Education:**
-  - I'm a 3rd year informatics student at **NTNU Trondheim**.
+  - I'm a 4th year informatics student at **NTNU Trondheim**.
 - **📖 Currently Reading:** _Design Patterns: Elements of Reusable Object-Oriented Software_ by gang of four.
 - **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, Computer Graphics, and AI, especially bio-inpired AI. Let's exchange insights!
-- **Shader art:** I recently got into computer graphics and shader art. Check out my shadertoy account [tobiasfremming](https://www.shadertoy.com/results?query=tobiasfremming)
+- **Shader art:** Check out my shadertoy account [tobiasfremming](https://www.shadertoy.com/results?query=tobiasfremming)
 <div style=" text-align: center;">
   <img src="assets/dolphin.gif" alt="My Animation" style="padding-left: 40px;"/>
 </div>
