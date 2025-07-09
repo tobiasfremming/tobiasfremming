@@ -60,16 +60,36 @@ Whether you're a seasoned developer, a student, or someone just starting out in 
 <h2>⚙️ GitHub Stats</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true&border_color=414868&theme=tokyonight"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true&border_color=414868&theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true"
+    />
+    <img
+      height="190em"
+      src="https://github-readme-stats.vercel.app/api?username=tobiasfremming&show_icons=true"
+    />
   </picture>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868&theme=tokyonight&hide=html%2Cjupyter%20notebook"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=[html%2Cjupyter%20notebook, html%makeFile]">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=html%2Cjupyter%20notebook"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&border_color=414868&theme=tokyonight&hide=css%2Chtml%2Cjupyter%20notebook"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=css%2Chtml%2Cjupyter%20notebook"
+    />
+    <img
+      height="190em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasfremming&layout=compact&hide=css%2Chtml%2Cjupyter%20notebook"
+    />
   </picture>
 </div>
+
 
 
 
