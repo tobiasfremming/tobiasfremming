@@ -10,11 +10,11 @@
   - Software developer at **Aksio** startup project.
   - Member of **Cogito NTNU**, where I have contributed to **TutorAI**, and been project leader at **CrawlAI** and **Motion**.
   - I currently serve as board member at **Cogito NTNU**.
-  - I am a member at **Hackerspace NTNU** as project leader of the **Shader art project** .
+  - I am a member at **Hackerspace NTNU** as deputy leader of the **Gamedev Project** .
 - **🏦 Education:**
   - I'm a 4th year informatics student at **NTNU Trondheim**.
 - **📖 Currently Reading:** _Design Patterns: Elements of Reusable Object-Oriented Software_ by gang of four.
-- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, Computer Graphics, and AI, especially bio-inpired AI. Let's exchange insights!
+- **💬 Let's Talk About:** I'm passionate about producing clean code, software architecture, Computer Graphics, Game development and AI, especially bio-inpired AI. Let's exchange insights!
 - **Shader art:** Check out my shadertoy account [tobiasfremming](https://www.shadertoy.com/results?query=tobiasfremming)
 <div style=" text-align: center;">
   <img src="assets/dolphin.gif" alt="My Animation" style="padding-left: 40px;"/>
