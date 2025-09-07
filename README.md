@@ -12,6 +12,7 @@
   - Currently project leader of the **Grip** project in **Cogito NTNU**
   - I currently serve as board member at **Cogito NTNU**.
   - I am a member at **Hackerspace NTNU** as deputy leader of the **Gamedev Project** .
+  - Software developer and research assistant at **IMTEL NTNU** working on a configurable NPC AI system for educational technology.
 - **🏦 Education:**
   - I'm a 4th year informatics student at **NTNU Trondheim**.
 - **📖 Currently Reading:** _Design Patterns: Elements of Reusable Object-Oriented Software_ by gang of four.
