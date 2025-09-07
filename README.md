@@ -9,6 +9,7 @@
 - **🚀 Positions:**
   - Software developer at **Aksio** startup project.
   - Member of **Cogito NTNU**, where I have contributed to **TutorAI**, and been project leader at **CrawlAI** and **Motion**.
+  - Currently project leader of the **Grip** project in **Cogito NTNU**
   - I currently serve as board member at **Cogito NTNU**.
   - I am a member at **Hackerspace NTNU** as deputy leader of the **Gamedev Project** .
 - **🏦 Education:**
