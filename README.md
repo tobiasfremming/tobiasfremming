@@ -48,10 +48,6 @@
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI) and Aksio.
 - [Skage Klingstedt Reistad](https://github.com/lockedintheskage) on [TutorAI](https://github.com/SverreNystad/TutorAI) and [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git)
 - [Nathania Vijayanti Muliawan](https://github.com/Nathaniavm) on [CrawlAI](https://github.com/CogitoNTNU/CrawlAI.git) and [Motion](https://github.com/CogitoNTNU/Motion)
-- [Edvard Emmanuel Klavenes](https://github.com/edvard-ek) on [Motion](https://github.com/CogitoNTNU/Motion)
-- [Christopher Braaten](https://github.com/CraZyB1336) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
-- [Christer Justad Krane](https://github.com/ChrisKrane) on [prosjekt-spill](https://github.com/hackerspace-ntnu/prosjekt-spill)
-
 
 - And many more!
 
